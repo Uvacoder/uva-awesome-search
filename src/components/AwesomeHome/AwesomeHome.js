@@ -136,15 +136,15 @@ const Homepage = () => {
               <img
                 style={{ width: 'inherit' }}
                 src='https://avatars.githubusercontent.com/u/4214069?v=4'
-                alt='Che-Wei Lin'
+                alt='uvacoder'
               />
             </div>
           </div>
           <div className='media-body'>
             <div className='media-heading'>
-              Che-Wei Lin{' '}
+              uvacoder{' '}
               <a
-                href='https://github.com/John-Lin'
+                href='https://github.com/uvacoder'
                 target='_blank'
                 rel='noreferrer'
               >
@@ -152,8 +152,7 @@ const Homepage = () => {
               </a>
             </div>
             <div className='media-content'>
-              Che-Wei Lin is a site reliability engineer(SRE) at Line corp,
-              previously a cloud architect at Tencent.
+              uvacoder.
             </div>
           </div>
         </div>
